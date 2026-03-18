@@ -27,7 +27,7 @@ const proximosEventos = [
     ubicacion: 'Plaza Balcarce, Ciudad de Suipacha',
     desc: '¡Vamos a Suipacha! Este 22 de marzo de 12 a 21 horas podrás encontrarnos en la primera edición del Festival del Alfajor en la Ciudad de Suipacha. En este evento podrás probar varios de nuestros sabores más exquisitos. Además, habrán shows en vivo, master classes, y mucho más. ¿Te lo vas a perder?',
     imagenes: 'festival-del-alfajor2026',
-    iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.9638795660626!2d-58.4209327!3d-34.5797805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb59cd6452553%3A0x6b521307d135059a!2sLa%20Rural!5e0!3m2!1ses-419!2sar!4v1772509628887!5m2!1ses-419!2sar'
+    iframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2995.816662418976!2d-59.68945062461129!3d-34.768822272895484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bc053c74f72123%3A0x69d8e5f3b36e6de2!2sPlaza%20Balcarce!5e1!3m2!1ses-419!2sar!4v1773796671967!5m2!1ses-419!2sar'
   },
   {
     titulo: '¡Primer Salón del Alfajor 2026!',
