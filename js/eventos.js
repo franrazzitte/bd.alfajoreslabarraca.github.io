@@ -51,7 +51,7 @@ const proximosEventos = [
     mes: 4,
     año: 2026,
     horaI: '13',
-    horaF: '19',
+    horaF: '15',
     ubicacion: 'Colectora AU Ezeiza Cañuelas 58.5KM',
     desc: "Este 26 de abril de 13 a 19hrs vamos a estar en la Feria de Campo Ranch's Market. Nos podrás encontrar sobre la colectora de la Autopista Ezeiza-Cañuelas. La entrada es libre y gratuita. ¡Los esperamos!",
     imagenes: '',
