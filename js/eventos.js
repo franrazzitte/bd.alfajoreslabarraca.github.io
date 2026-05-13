@@ -60,8 +60,8 @@ const proximosEventos = [
   {
     titulo: "Feria de Campo Ranch's Market",
     tituloAlter: "Ranch's Market",
-    diaI: 17,
-    diaF: 17,
+    diaI: 31,
+    diaF: 31,
     mes: 5,
     año: 2026,
     horaI: '13',
