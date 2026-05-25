@@ -280,7 +280,7 @@ const alfajores = [
     "price": "$3500",
     "category": ['pistacho', 'todos'],
     "new": true,
-    "visible": true,
+    "visible": false,
     "link": "https://wa.me/p/24043410718684138/5491120518253"
   },
   {
