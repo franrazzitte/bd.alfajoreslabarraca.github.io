@@ -1,6 +1,6 @@
 // "SIN" == Sin Stock | "" == Consultar precio.
 
-const preciosDesactualizados = false
+const preciosDesactualizados = true
 
 const alfajores = [
   {
