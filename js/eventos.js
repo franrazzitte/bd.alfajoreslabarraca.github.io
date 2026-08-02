@@ -80,8 +80,8 @@ const proximosEventos = [
     año: 2026,
     horaI: '12',
     horaF: '20',
-    ubicacion: 'Club Ferro - Av. Avellaneda 1240, CABA',
-    desc: "Este 8 y 9 de agosto de 12 a 20hrs vamos a estar nuevamente en el Campeonato Argentino del Alfajor. Nos podrás encontrar en el Estadio Multideportivo 3, Club Ferro. La entrada es libre y gratuita. ¡Los esperamos!",
+    ubicacion: 'Estadio Multideportivo 3 - Club Ferro',
+    desc: "Este 8 y 9 de agosto de 12 a 20hrs vamos a estar nuevamente en el Campeonato Argentino del Alfajor. Nos podrás encontrar en el Estadio Multideportivo 3, Club Ferro, ubicado sobre Av. Avellaneda al 1240, CABA. La entrada es libre y gratuita. ¡Los esperamos!",
     imagenes: '',
     iframe: 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2715.3940557861333!2d-58.45047574254646!3d-34.61940343762003!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3c4529e413%3A0x6d60dd909b07d4c!2sEstadio%20Arquitecto%20Ricardo%20Etcheverri!5e0!3m2!1ses-419!2sar!4v1785682329281!5m2!1ses-419!2sar'
   }
