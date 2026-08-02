@@ -70,5 +70,19 @@ const proximosEventos = [
     desc: "Este 17 de mayo de 13 a 19hrs vamos a estar en la Feria de Campo Ranch's Market. Nos podrás encontrar sobre la colectora de la Autopista Ezeiza-Cañuelas. La entrada es libre y gratuita. ¡Los esperamos!",
     imagenes: '',
     iframe: 'https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2987.4330852458497!2d-58.71715892424247!3d-34.999120572815144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDU5JzU2LjgiUyA1OMKwNDInNTIuNSJX!5e1!3m2!1ses-419!2sar!4v1777079131429!5m2!1ses-419!2sar'
+  },
+  {
+    titulo: "¡Campeonato Argentino del Alfajor en Ferro 2026!",
+    tituloAlter: "Campeonato Argentino del Alfajor",
+    diaI: 8,
+    diaF: 9,
+    mes: 8,
+    año: 2026,
+    horaI: '12',
+    horaF: '20',
+    ubicacion: 'Club Ferro - Av. Avellaneda 1240, CABA',
+    desc: "Este 8 y 9 de agosto de 12 a 20hrs vamos a estar nuevamente en el Campeonato Argentino del Alfajor. Nos podrás encontrar en el Estadio Multideportivo 3, Club Ferro. La entrada es libre y gratuita. ¡Los esperamos!",
+    imagenes: '',
+    iframe: 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2715.3940557861333!2d-58.45047574254646!3d-34.61940343762003!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3c4529e413%3A0x6d60dd909b07d4c!2sEstadio%20Arquitecto%20Ricardo%20Etcheverri!5e0!3m2!1ses-419!2sar!4v1785682329281!5m2!1ses-419!2sar'
   }
 ];
