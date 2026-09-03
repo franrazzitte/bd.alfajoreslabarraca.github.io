@@ -48,6 +48,12 @@ const categorias = [
     ampliable: false
   },
   {
+    nombre: 'Golosinas',
+    colorLight: '#FBD100',
+    colorDark: '#FBD100',
+    ampliable: false
+  },
+  {
     nombre: 'Glaseado',
     colorLight: '#ffbb03',
     colorDark: '#ffd666',
