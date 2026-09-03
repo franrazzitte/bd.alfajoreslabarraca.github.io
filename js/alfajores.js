@@ -284,6 +284,16 @@ const alfajores = [
     "link": "https://wa.me/p/24043410718684138/5491120518253"
   },
   {
+    "id": "dos-corazones",
+    "name": "2 Corazones",
+    "desc": "Este alfajor está elaborado con dos suaves tapas artesanales, un abundante relleno de dulce de leche y un ingrediente sorpresa en su interior: un trozo del chocolate Dos Corazones, que aparece al llegar al centro del alfajor. Su presencia aporta un delicado toque de chocolate y una agradable textura crocante, que se integra con la suavidad y cremosidad del dulce de leche. Todo el alfajor está cubierto con chocolate semiamargo.<br>Peso neto 110grs.",
+    "price": "",
+    "category": ['golosinas', 'todos'],
+    "new": true,
+    "visible": true,
+    "link": "https://wa.me/p/1234567890/5491120518253"
+  },
+  {
     "id": "Integral",
     "name": "Integral",
     "desc": "100% Integral!!!! Dos galletitas con harina integral y cacao amargo, relleno con dulce de leche bañado con chocolate semiamargo.<br>Peso neto 75grs.",
