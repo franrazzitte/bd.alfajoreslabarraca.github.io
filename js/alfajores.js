@@ -286,12 +286,12 @@ const alfajores = [
   {
     "id": "dos-corazones",
     "name": "2 Corazones",
-    "desc": "Este alfajor está elaborado con dos suaves tapas artesanales, un abundante relleno de dulce de leche y un ingrediente sorpresa en su interior: un trozo del chocolate Dos Corazones, que aparece al llegar al centro del alfajor. Su presencia aporta un delicado toque de chocolate y una agradable textura crocante, que se integra con la suavidad y cremosidad del dulce de leche. Todo el alfajor está cubierto con chocolate semiamargo.<br>Peso neto 110grs.",
+    "desc": "Este alfajor está elaborado con dos suaves tapas artesanales, un abundante relleno de dulce de leche y un ingrediente sorpresa en su interior: una mitad de la golosina Dos Corazones, que aparece al llegar al centro del alfajor. Su presencia aporta un delicado toque de chocolate y una agradable textura crocante, que se integra con la suavidad y cremosidad del dulce de leche. Todo el alfajor está cubierto con chocolate con leche.<br>Peso neto 110grs.",
     "price": "",
     "category": ['golosinas', 'todos'],
     "new": true,
     "visible": true,
-    "link": "https://wa.me/p/1234567890/5491120518253"
+    "link": "https://wa.me/p/27545392471805881/5491120518253"
   },
   {
     "id": "Integral",
